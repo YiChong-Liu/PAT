@@ -1,5 +1,5 @@
-/*author:moonlake23
-question1046:��ȭ*/
+﻿/*author:moonlake23
+question1046:划拳*/
 
 #include<stdio.h>
 int main() {

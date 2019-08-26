@@ -1,5 +1,5 @@
-/*author:moonlake23
-question1056:×éºÏÊıµÄºÍ*/
+ï»¿/*author:moonlake23
+question1056:ç»„åˆæ•°çš„å’Œ*/
 
 #include<stdio.h>
 int main() {
@@ -10,7 +10,7 @@ int main() {
 		num2[i] = num1[i];
 	}
 
-	int all = 0;//×ÜºÍ
+	int all = 0;//æ€»å’Œ
 	for(int i=0;i<capacity;i++)
 		for (int j = 0; j < capacity; j++) {
 			if (num1[i] == num2[j])continue;

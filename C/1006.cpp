@@ -1,13 +1,13 @@
-/*author:moonlake23
-question1006: »»¸ö¸ñÊ½Êä³öÕûÊı*
+ï»¿/*author:moonlake23
+question1006: æ¢ä¸ªæ ¼å¼è¾“å‡ºæ•´æ•°*
 #include<stdio.h>
 int main() {
 	int num, a, b, c;
 	int i;
 	scanf("%d", &num);
-	a = num %10;//¸öÎ»
-	b = (num % 100 - a) / 10;//Ê®Î»
-	c = num / 100;//°ÙÎ»
+	a = num %10;//ä¸ªä½
+	b = (num % 100 - a) / 10;//åä½
+	c = num / 100;//ç™¾ä½
 	for (i = 1; i <=c; i++)
 		printf("B");
 	for (i = 1; i <= b; i++)

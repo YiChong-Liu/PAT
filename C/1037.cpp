@@ -1,5 +1,5 @@
-/*author:moonlake23
-question1037:ÔÚ»ô¸ñÎÖ×ÈÕÒÁãÇ®*/
+ï»¿/*author:moonlake23
+question1037:åœ¨éœæ ¼æ²ƒå…¹æ‰¾é›¶é’±*/
 
 #include<stdio.h>
 int main() {
@@ -13,7 +13,7 @@ int main() {
 
 	int remain = A-P;
 
-	//Èç¹ûÇ®²»¹»
+	//å¦‚æœé’±ä¸å¤Ÿ
 	if (remain < 0) {
 		remain=-remain;
 		putchar('-');

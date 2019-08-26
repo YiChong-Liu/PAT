@@ -1,5 +1,5 @@
-/*author:moonlake23
-question1004:³É¼¨ÅÅÃû*/
+ï»¿/*author:moonlake23
+question1004:æˆç»©æ’å*/
 
 #include<stdio.h>
 #include<string.h>

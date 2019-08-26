@@ -1,5 +1,5 @@
-/*author:moonlake23
-question1036:¸ú°Â°ÍÂíÒ»Æð±à³Ì*/
+ï»¿/*author:moonlake23
+question1036:è·Ÿå¥¥å·´é©¬ä¸€èµ·ç¼–ç¨‹*/
 
 #include<stdio.h>
 int main() {

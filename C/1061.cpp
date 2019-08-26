@@ -1,22 +1,22 @@
-/*author:moonlake23
-question1061:ÅĞ¶ÏÌâ*/
+ï»¿/*author:moonlake23
+question1061:åˆ¤æ–­é¢˜*/
 
 #include<stdio.h>
 int main() {
 	int students, questions;
 	scanf("%d %d", &students, &questions);
 
-	int scores[101];//ÎÊÌâ·ÖÖµ
+	int scores[101];//é—®é¢˜åˆ†å€¼
 	for (int i = 0; i < questions; i++) {
 		scanf("%d", &scores[i]);
 	}
 
-	int keys[101];//±ê×¼´ğ°¸
+	int keys[101];//æ ‡å‡†ç­”æ¡ˆ
 	for (int i = 0; i < questions; i++)
 		scanf("%d", &keys[i]);
 
 	while (students--) {
-		int points=0;//Ñ§ÉúµÃ·Ö
+		int points=0;//å­¦ç”Ÿå¾—åˆ†
 		int answers[101];
 		for (int i = 0; i < questions; i++) {
 			scanf("%d", &answers[i]);

@@ -1,5 +1,5 @@
-/*author:moonlake23
-question1001:º¦ËÀÈË²»³¥ÃüµÄ(3n+1)²ÂÏë */
+ï»¿/*author:moonlake23
+question1001:å®³æ­»äººä¸å¿å‘½çš„(3n+1)çŒœæƒ³ */
 
 import java.util.Scanner;
 

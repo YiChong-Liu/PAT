@@ -1,5 +1,5 @@
-/*author:moonlake23
-question 1016:²¿·ÖA+B*/
+ï»¿/*author:moonlake23
+question 1016:éƒ¨åˆ†A+B*/
 
 #include<stdio.h>
 #include<string.h>
