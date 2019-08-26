@@ -1,3 +1,5 @@
+/*author:moonlake23
+question1006: 换个格式输出整数*
 #include<stdio.h>
 int main() {
 	int num, a, b, c;

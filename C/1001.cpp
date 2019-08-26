@@ -1,3 +1,6 @@
+/*author:moonlake23
+question1001:害死人不偿命的(3n+1)猜想*/
+
 #include<stdio.h>
 int program(int num)
 {

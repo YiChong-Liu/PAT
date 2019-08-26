@@ -1,3 +1,6 @@
+/*author:moonlake23
+question1004:³É¼¨ÅÅÃû*/
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
