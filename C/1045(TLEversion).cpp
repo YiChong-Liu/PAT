@@ -1,7 +1,7 @@
-/*author:moonlake23
-question1045:¿ìËÙÅÅĞò*/
+ï»¿/*author:moonlake23
+question1045:å¿«é€Ÿæ’åº*/
 
-/*½á¹ûÕıÈ·£¬µ«Ê±¼ä³¬Ê±*/
+/*ç»“æœæ­£ç¡®ï¼Œä½†æ—¶é—´è¶…æ—¶*/
 
 #include<iostream>
 #include<algorithm>
@@ -15,7 +15,7 @@ int main() {
 		scanf("%d", &numbers[i]);
 	}
 
-	//´æ´¢Ö÷ÔªÊı
+	//å­˜å‚¨ä¸»å…ƒæ•°
 	int standardnums[100001];
 	int mark = 0;
 	for (i = 0; i < capacity; i++) {
