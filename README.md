@@ -1,4 +1,4 @@
-# PAT题解
+﻿# PAT题解
 ## 前言
 
 Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正在准备（或已完成）2019年9月份的PAT乙级考试，期望能努力刷题，充实并锻炼自己的coding skills。
@@ -27,14 +27,17 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1036:跟奥巴马一起编程](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1036.cpp)<br>
 [1037:在霍格沃兹找零钱](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1037.cpp)<br>
 [1041:考试座位号](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1041.cpp)<br>
-[1042:字符统计](https://github.[]()<vrcom/moonlake23/PAT/blob/master/BasicLevel_C/1042.cpp)<br>
+[1042:字符统计](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1042.cpp)<br>
+[1043:输出PATest ](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1043.cpp)<br>
 [1045:快速排序](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(ACVersion).cpp)<br>
 [1046:划拳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1046.cpp)<br>
 [1047:编程团体赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1047.cpp)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1056.cpp)<br>
 [1061:判断题](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1061.cpp)<br>
 [1063:计算谱半径](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1063.cpp)<br>
+[1064:朋友数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1064.cpp)<br>
 [1070:结绳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
 [1083:是否存在相等的差](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1083.cpp)<br>
+[1087:有多少不同的值](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1087.cpp)<br>
 (持续更新中...)
 # 感谢您的阅读，鄙人不胜荣幸！
