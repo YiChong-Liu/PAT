@@ -17,7 +17,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 
 ## 目录(乙级 C/C++)
 [1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1001.cpp)<br>
-[1002:写出这个数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(VersionFinal).cpp)<br>
+[1002:写出这个数(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(Version1).cpp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1002:写出这个数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(VersionFinal).cpp)<br>
 [1003:我要通过](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1003.cpp)<br>
 [1004:成绩排名](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1004.cpp)<br>
 [1005:继续(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1005.cpp)<br>
@@ -29,11 +29,11 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1041:考试座位号](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1041.cpp)<br>
 [1042:字符统计](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1042.cpp)<br>
 [1043:输出PATest ](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1043.cpp)<br>
-[1045:快速排序](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(ACVersion).cpp)<br>
+[1045:快速排序(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(TLEVersion).cpp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1045:快速排序](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(ACVersion).cpp)<br>
 [1046:划拳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1046.cpp)<br>
 [1047:编程团体赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1047.cpp)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1056.cpp)<br>
-[1060:爱丁顿数(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060(Version1).cpp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1060:爱丁顿数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060.cpp)<br>
+[1060:爱丁顿数(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060(Version1).cpp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1060:爱丁顿数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060.cpp)<br>
 [1061:判断题](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1061.cpp)<br>
 [1062:最简分数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1062.cpp)<br>
 [1063:计算谱半径](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1063.cpp)<br>
