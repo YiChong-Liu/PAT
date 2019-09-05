@@ -39,7 +39,14 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1063:计算谱半径](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1063.cpp)<br>
 [1064:朋友数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1064.cpp)<br>
 [1070:结绳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
+[1076:wifi密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1076.cpp)<br>
+[1082 射击比赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1082.cpp)<br>
 [1083:是否存在相等的差](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1083.cpp)<br>
 [1087:有多少不同的值](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1087.cpp)<br>
 (持续更新中...)
+
+## 一些需要注意的地方
+
+在本人C/C++代码中，可能会出现gets_s函数，将代码提交至PTA平台时会出现编译错误，这是由于本人使用的是VS2015作为编译器，将函数改为gets即可。
+
 # 感谢您的阅读，鄙人不胜荣幸！
