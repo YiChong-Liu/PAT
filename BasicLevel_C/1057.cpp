@@ -4,8 +4,8 @@ question1057:数零壹*/
 #include<stdio.h>
 #include<string.h>
 int main() {
-	char ch[10001];
-	gets(ch);
+	char ch[100001];
+	gets_s(ch);
 	int length = strlen(ch);
 	int sum = 0;
 	for (int i = 0; i < length; i++) {
@@ -17,7 +17,7 @@ int main() {
 		}
 	}
 
-	int result[101], mark = 0;
+	int result[1001], mark = 0;
 	while (sum) {
 		result[mark++] = sum % 2;
 		sum = sum/2;
