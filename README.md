@@ -23,6 +23,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1005:继续(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1005.cpp)<br>
 [1006: 换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
+[1022:D进制的A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
 [1023:组个最小数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1023.cpp)<br>
 [1036:跟奥巴马一起编程](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1036.cpp)<br>
 [1037:在霍格沃兹找零钱](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1037.cpp)<br>
@@ -34,6 +35,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1047:编程团体赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1047.cpp)<br>
 [1051:复数乘法](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1051.cpp)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1056.cpp)<br>
+[1057:数零壹](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1057(Version1).cpp)<br>
 [1060:爱丁顿数(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060(Version1).cpp)||[1060:爱丁顿数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060.cpp)<br>
 [1061:判断题](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1061.cpp)<br>
 [1062:最简分数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1062.cpp)<br>
