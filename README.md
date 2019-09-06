@@ -46,6 +46,10 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1082 射击比赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1082.cpp)<br>
 [1083:是否存在相等的差](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1083.cpp)<br>
 [1087:有多少不同的值](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1087.cpp)<br>
+[1091:N-自守数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1091.cpp)<br>
+[1092:最好吃的月饼](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1092.cpp)<br>
+[1093:字符串A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1093.cpp)<br>
+[1094:谷歌的招聘](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1094.cpp)<br>
 (持续更新中...)
 
 ## 一些需要注意的地方
