@@ -21,7 +21,8 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1003:我要通过](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1003.cpp)<br>
 [1004:成绩排名](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1004.cpp)<br>
 [1005:继续(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1005.cpp)<br>
-[1006: 换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
+[1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
+[1013:数素数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1013.cpp)<br>
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
 [1022:D进制的A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
 [1023:组个最小数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1023.cpp)<br>
@@ -43,8 +44,9 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1064:朋友数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1064.cpp)<br>
 [1070:结绳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
 [1076:wifi密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1076.cpp)<br>
-[1082 射击比赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1082.cpp)<br>
+[1082:射击比赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1082.cpp)<br>
 [1083:是否存在相等的差](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1083.cpp)<br>
+[1086:就不告诉你](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1086.cpp)<br>
 [1087:有多少不同的值](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1087.cpp)<br>
 [1091:N-自守数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1091.cpp)<br>
 [1092:最好吃的月饼](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1092.cpp)<br>
