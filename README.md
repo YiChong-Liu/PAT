@@ -27,6 +27,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
 [1022:D进制的A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
 [1023:组个最小数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1023.cpp)<br>
+[1031 查验身份证](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1031.cpp)<br>
 [1036:跟奥巴马一起编程](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1036.cpp)<br>
 [1037:在霍格沃兹找零钱](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1037.cpp)<br>
 [1041:考试座位号](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1041.cpp)<br>
@@ -43,8 +44,10 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1062:最简分数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1062.cpp)<br>
 [1063:计算谱半径](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1063.cpp)<br>
 [1064:朋友数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1064.cpp)<br>
+[1065:单身狗(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1065(Version1).cpp)<br>
 [1066:图像过滤](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1066.cpp)<br>
 [1067:试密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1067.cpp)<br>
+[1069:微博转发抽奖](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1069.cpp)<br>
 [1070:结绳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
 [1076:wifi密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1076.cpp)<br>
 [1082:射击比赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1082.cpp)<br>
