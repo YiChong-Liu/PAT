@@ -15,13 +15,14 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [甲级(Advanced Level)](https://pintia.cn/problem-sets/994805342720868352/problems/type/7)<br>
 [乙级(Basic Level)](https://pintia.cn/problem-sets/994805260223102976/problems/type/7)<br>
 
-## 目录(乙级 C/C++)
-[1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1001.cpp)<br>
+## 目录(乙级 C/C++/Java)
+[1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1001.cpp)||[1001:害死人不偿命的(3n+1)猜想(java)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1001.java)<br>
 [1002:写出这个数(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(Version1).cpp)||[1002:写出这个数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(VersionFinal).cpp)<br>
 [1003:我要通过](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1003.cpp)<br>
 [1004:成绩排名](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1004.cpp)<br>
 [1005:继续(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1005.cpp)<br>
 [1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
+[1011:A+B和C](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1011.cpp)<br>
 [1013:数素数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1013.cpp)<br>
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
 [1022:D进制的A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
@@ -42,6 +43,8 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1062:最简分数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1062.cpp)<br>
 [1063:计算谱半径](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1063.cpp)<br>
 [1064:朋友数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1064.cpp)<br>
+[1066:图像过滤](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1066.cpp)<br>
+[1067:试密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1067.cpp)<br>
 [1070:结绳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
 [1076:wifi密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1076.cpp)<br>
 [1082:射击比赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1082.cpp)<br>
