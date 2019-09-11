@@ -23,6 +23,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1005:继续(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1005.cpp)<br>
 [1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
 [1011:A+B和C](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1011.cpp)<br>
+[1012:数字分类](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1012.cpp)<br>
 [1013:数素数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1013.cpp)<br>
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
 [1022:D进制的A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
