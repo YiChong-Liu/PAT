@@ -27,7 +27,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
 [1022:D进制的A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
 [1023:组个最小数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1023.cpp)<br>
-[1031 查验身份证](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1031.cpp)<br>
+[1031:查验身份证](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1031.cpp)<br>
 [1036:跟奥巴马一起编程](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1036.cpp)<br>
 [1037:在霍格沃兹找零钱](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1037.cpp)<br>
 [1041:考试座位号](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1041.cpp)<br>
@@ -64,7 +64,8 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 
 在本人C/C++代码中，可能会出现gets_s函数，将代码提交至PTA平台时会出现编译错误，这是由于本人使用的是VS2015作为编译器，将函数改为gets即可。
 
-## ————————分割线——————————
-555o(╥﹏╥)o，9月考试已经完成了，可惜没有满分，卡在了倒数第二题（此处省略一万字）。题库我会继续更新的，目前看来我的数据结构知识还是存在着欠缺，期望自己能继续坚持刷下去，完成从乙级到甲级的过渡。
+## 考试结果更新
+555o(╥﹏╥)o，9月考试已结束，可惜没有满分，卡在了倒数第二题(此处省略一万字)。<br>但不得不说，这段时间的刷题让本人收获了很多。从暑假开始到新学期要已正式入坑C++和java，题库本人会一直坚持刷下去，以不断熟悉语法、提高coding思维和算法能力为目的<br>
+规划:从9月到12月，完成乙级题库中所有题目的C++题解和部分java题解，并争取完成10——30道甲级题目。加油O(∩_∩)O！
 
-# 感谢您的阅读，鄙人不胜荣幸！
+# 感谢您的阅读，祝您生活愉快！
