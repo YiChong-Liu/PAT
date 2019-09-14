@@ -71,7 +71,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 ## 参考书
 为了PATers在刷题时进行更有针对性的总结和知识点归纳，市面上出版了一套主流参考书名为《算法笔记》&《算法笔记上机训练实战指南》。鉴于网上PDF价格较高，有需要的读者，可以在本人处以最低的价格购买哦o(*￣︶￣*)o
 
-![jpg](C:\Users\LEBRON\Desktop\支付宝收款码.jpg "支付宝付款码")
+![jpg](https://github.com/moonlake23/PAT/blob/master/img-folder/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg "支付宝收款码")
 
 价格:1元/份，若觉得本人github代码对您起到了帮助的话，欢迎赞赏✿✿ヽ(°▽°)ノ✿<br>
 付款时请备注github+书名+邮箱地址,PDF会在3个工作日内准时发放。
