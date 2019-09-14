@@ -27,6 +27,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1012:数字分类](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1012.cpp)<br>
 [1013:数素数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1013.cpp)<br>
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
+[1017:A除以B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1017.cpp)<br>
 [1021:个位数统计](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1021.cpp)<br>
 [1022:D进制的A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
 [1023:组个最小数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1023.cpp)<br>
@@ -66,6 +67,14 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 ## 一些需要注意的地方
 
 在本人C/C++代码中，可能会出现gets_s函数，将代码提交至PTA平台时会出现编译错误，这是由于本人使用的是VS2015作为编译器，将函数改为gets即可。
+
+## 参考书
+为了PATers在刷题时进行更有针对性的总结和知识点归纳，市面上出版了一套主流参考书名为《算法笔记》&《算法笔记上机训练实战指南》。鉴于网上PDF价格较高，有需要的读者，可以在本人处以最低的价格购买哦o(*￣︶￣*)o
+
+![jpg](C:\Users\LEBRON\Desktop\支付宝收款码.jpg "支付宝付款码")
+
+价格:1元/份，若觉得本人github代码对您起到了帮助的话，欢迎赞赏✿✿ヽ(°▽°)ノ✿<br>
+付款时请备注github+书名+邮箱地址,PDF会在3个工作日内准时发放。
 
 ## 考试结果更新
 555o(╥﹏╥)o，9月考试已结束，可惜没有满分，卡在了倒数第二题(此处省略一万字)。<br>但不得不说，这段时间的刷题让本人收获了很多。从暑假开始到新学期要已正式入坑C++和java，题库本人会一直坚持刷下去，以不断熟悉语法、提高coding思维和算法能力为目的<br>
