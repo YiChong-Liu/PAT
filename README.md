@@ -17,12 +17,13 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 
 ## 目录(乙级 C/C++/Java)
 [1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1001.cpp)||[1001:害死人不偿命的(3n+1)猜想(java)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1001.java)<br>
-[1002:写出这个数(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(Version1).cpp)||[1002:写出这个数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(VersionFinal).cpp)<br>
+[1002:写出这个数(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(Version1).cpp)||[1002:写出这个数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(VersionFinal).cpp)<br>
 [1003:我要通过](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1003.cpp)<br>
 [1004:成绩排名](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1004.cpp)<br>
 [1005:继续(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1005.cpp)<br>
 [1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
 [1007:素数对猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1007.cpp)<br>
+[1008:数组元素循环右移问题](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1008.cpp)<br>
 [1011:A+B和C](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1011.cpp)<br>
 [1012:数字分类](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1012.cpp)<br>
 [1013:数素数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1013.cpp)<br>
@@ -37,13 +38,13 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1041:考试座位号](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1041.cpp)<br>
 [1042:字符统计](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1042.cpp)<br>
 [1043:输出PATest ](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1043.cpp)<br>
-[1045:快速排序(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(TLEVersion).cpp)||[1045:快速排序](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(ACVersion).cpp)<br>
+[1045:快速排序(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(TLEVersion).cpp)||[1045:快速排序](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(ACVersion).cpp)<br>
 [1046:划拳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1046.cpp)<br>
 [1047:编程团体赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1047.cpp)<br>
 [1051:复数乘法](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1051.cpp)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1056.cpp)<br>
 [1057:数零壹](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1057.cpp)<br>
-[1060:爱丁顿数(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060(Version1).cpp)||[1060:爱丁顿数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060.cpp)<br>
+[1060:爱丁顿数(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060(Version1).cpp)||[1060:爱丁顿数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060.cpp)<br>
 [1061:判断题](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1061.cpp)<br>
 [1062:最简分数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1062.cpp)<br>
 [1063:计算谱半径](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1063.cpp)<br>
@@ -55,7 +56,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1070:结绳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
 [1076:wifi密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1076.cpp)<br>
 [1077:互评成绩计算](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1077.cpp)<br>
-[1078:字符串压缩与解压](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1078(Version1).cpp)<br>
+[1078:字符串压缩与解压(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1078(Version1).cpp)<br>
 [1082:射击比赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1082.cpp)<br>
 [1083:是否存在相等的差](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1083.cpp)<br>
 [1086:就不告诉你](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1086.cpp)<br>
