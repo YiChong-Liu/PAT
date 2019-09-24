@@ -15,7 +15,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [甲级(Advanced Level)](https://pintia.cn/problem-sets/994805342720868352/problems/type/7)<br>
 [乙级(Basic Level)](https://pintia.cn/problem-sets/994805260223102976/problems/type/7)<br>
 
-## 目录(乙级 C/C++/Java)
+## Content(Basic_Level C/C++/Java)
 [1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1001.cpp)||[1001:害死人不偿命的(3n+1)猜想(java)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1001.java)<br>
 [1002:写出这个数(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(Version1).cpp)||[1002:写出这个数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1002(VersionFinal).cpp)<br>
 [1003:我要通过](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1003.cpp)<br>
@@ -67,9 +67,14 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1094:谷歌的招聘](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1094.cpp)<br>
 (持续更新中...)
 
-## 一些需要注意的地方
+## 提交C/C++代码时!!
 
 在本人C/C++代码中，可能会出现gets_s函数，将代码提交至PTA平台时会出现编译错误，这是由于本人使用的是VS2015作为编译器，将函数改为gets即可。
+
+## 提交Java代码时!!
+
+1.不要输入package名字
+2.类名必须为Main.否则出现编译错误，“class xxx.java is public,should be declared in a file named xxxx”
 
 ## 参考书
 为了PATers在刷题时进行更有针对性的总结和知识点归纳，市面上出版了一套主流参考书名为《算法笔记》&《算法笔记上机训练实战指南》。鉴于网上PDF价格较高，有需要的读者，可以在本人处以最低的价格购买哦o(*￣︶￣*)o
