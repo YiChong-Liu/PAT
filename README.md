@@ -27,6 +27,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1011:A+B和C](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1011.cpp)<br>
 [1012:数字分类](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1012.cpp)<br>
 [1013:数素数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1013.cpp)<br>
+[1014:福尔摩斯的约会(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1014(Version1).cpp)<br>
 [1016:部分A+B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1016.cpp)<br>
 [1017:A除以B](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1017.cpp)<br>
 [1021:个位数统计](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1021.cpp)<br>
@@ -70,8 +71,8 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 ## Content(Basic_Level Java)
 
 [1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1001.java)<br>
-[1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.java)<br>
-[1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1056.java)<br>
+[1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1006.java)<br>
+[1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1056.java)<br>
 
 ## 提交C/C++代码时!!
 
