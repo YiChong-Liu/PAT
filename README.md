@@ -72,6 +72,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 
 [1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1001.java)<br>
 [1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1006.java)<br>
+[1009:说反话](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1009.java)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1056.java)<br>
 
 ## 提交C/C++代码时!!
