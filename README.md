@@ -42,6 +42,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1045:快速排序(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(TLEVersion).cpp)||[1045:快速排序](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1045(ACVersion).cpp)<br>
 [1046:划拳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1046.cpp)<br>
 [1047:编程团体赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1047.cpp)<br>
+[1049:数列的片段和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1049.cpp)<br>
 [1051:复数乘法](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1051.cpp)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1056.cpp)<br>
 [1057:数零壹](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1057.cpp)<br>
@@ -73,6 +74,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1001:害死人不偿命的(3n+1)猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1001.java)<br>
 [1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1006.java)<br>
 [1009:说反话](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1009.java)<br>
+[1049:数列的片段和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1049.java)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_Java/1056.java)<br>
 
 ## 提交C/C++代码时!!
