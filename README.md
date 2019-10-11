@@ -24,6 +24,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1006:换个格式输出整数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
 [1007:素数对猜想](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1007.cpp)<br>
 [1008:数组元素循环右移问题](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1008.cpp)<br>
+[1010:一元多项式求导](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1010.cpp)<br>
 [1011:A+B和C](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1011.cpp)<br>
 [1012:数字分类](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1012.cpp)<br>
 [1013:数素数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1013.cpp)<br>
