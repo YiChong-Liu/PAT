@@ -57,6 +57,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1067:试密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1067.cpp)<br>
 [1069:微博转发抽奖](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1069.cpp)<br>
 [1070:结绳](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
+[1071:小赌怡情](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1071.cpp)<br>
 [1076:wifi密码](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1076.cpp)<br>
 [1077:互评成绩计算](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1077.cpp)<br>
 [1078:字符串压缩与解压(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1078(Version1).cpp)<br>
