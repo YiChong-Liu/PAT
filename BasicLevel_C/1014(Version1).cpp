@@ -1,5 +1,5 @@
 ﻿/*author:moonlake23
-question1014:福尔摩斯的约会*/
+question1014:福尔摩斯的约会(初版)*/
 
 #include<iostream>
 #include<cstring>

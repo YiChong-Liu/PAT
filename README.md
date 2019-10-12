@@ -37,6 +37,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1031:查验身份证](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1031.cpp)<br>
 [1036:跟奥巴马一起编程](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1036.cpp)<br>
 [1037:在霍格沃兹找零钱](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1037.cpp)<br>
+[1038:统计同成绩学生](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1038(Version1).cpp)<br>
 [1041:考试座位号](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1041.cpp)<br>
 [1042:字符统计](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1042.cpp)<br>
 [1043:输出PATest ](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1043.cpp)<br>
@@ -45,7 +46,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1047:编程团体赛](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1047.cpp)<br>
 [1049:数列的片段和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1049.cpp)<br>
 [1051:复数乘法](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1051.cpp)<br>
-[1053:住房空置率(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1053.cpp)<br>
+[1053:住房空置率(初版)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1053(Version1).cpp)<br>
 [1056:组合数的和](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1056.cpp)<br>
 [1057:数零壹](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1057.cpp)<br>
 [1060:爱丁顿数(Version1)](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060(Version1).cpp)||[1060:爱丁顿数](https://github.com/moonlake23/PAT/blob/master/BasicLevel_C/1060.cpp)<br>
