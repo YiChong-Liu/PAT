@@ -25,6 +25,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1006:换个格式输出整数](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1006.cpp)<br>
 [1007:素数对猜想](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1007.cpp)<br>
 [1008:数组元素循环右移问题](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1008.cpp)<br>
+[1009:说反话](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1009.cpp)<br>
 [1010:一元多项式求导](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1010.cpp)<br>
 [1011:A+B和C](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1011.cpp)<br>
 [1012:数字分类](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1012.cpp)<br>
@@ -64,6 +65,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1069:微博转发抽奖](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1069.cpp)<br>
 [1070:结绳](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1070.cpp)<br>
 [1071:小赌怡情](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1071.cpp)<br>
+[1072:开学寄语](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1072.cpp)<br>
 [1076:wifi密码](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1076.cpp)<br>
 [1077:互评成绩计算](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1077.cpp)<br>
 [1078:字符串压缩与解压(Version1)](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1078(Version1).cpp)<br>
