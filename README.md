@@ -37,6 +37,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1022:D进制的A+B](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1022.cpp)<br>
 [1023:组个最小数](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1023.cpp)<br>
 [1031:查验身份证](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1031.cpp)<br>
+[1032:挖掘机技术哪家强](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1032.cpp)<br>
 [1036:跟奥巴马一起编程](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1036.cpp)<br>
 [1037:在霍格沃兹找零钱](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1037.cpp)<br>
 [1038:统计同成绩学生(Version1)](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_C/1038(Version1).cpp)<br>
@@ -86,6 +87,10 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 [1009:说反话](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1009.java)<br>
 [1049:数列的片段和](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1049.java)<br>
 [1056:组合数的和](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1056.java)<br>
+
+## Content(Advanced_Level C++)
+
+[1025:PAT Ranking](https://github.com/YiChong-Liu/PAT/blob/master/AdvancedLevel_C++/1025.cpp)<br>
 
 ## 提交C/C++代码时!!
 
