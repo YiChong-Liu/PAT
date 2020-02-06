@@ -84,6 +84,7 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 
 [1001:害死人不偿命的(3n+1)猜想](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1001.java)<br>
 [1002:写出这个数](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1002.java)<br>
+[1003:我要通过!](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1003.java)<br>
 [1006:换个格式输出整数](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1006.java)<br>
 [1009:说反话](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1009.java)<br>
 [1049:数列的片段和](https://github.com/YiChong-Liu/PAT/blob/master/BasicLevel_Java/1049.java)<br>
