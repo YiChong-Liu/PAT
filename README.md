@@ -1,10 +1,7 @@
 ﻿# PAT题解
 ## 前言
 
-Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正在准备（或已完成）2019年9月份的PAT乙级考试，期望能努力刷题，充实并锻炼自己的coding skills。
-为了将自己的解题思路和技巧记录下来，同时进一步熟悉一下使用github(笑笑)，我将PAT题库中题目的代码同步并分享，希望能对读者有所帮助。当然，本人的水平有限，很多题目也许
-有着更高效、简洁的算法，欢迎读者fork本项目并作出更好的修改，`moonlake23`在此先说一声谢谢啦。<br>
-对了，若读者提交了修改或有更好的建议，烦请邮件告知jiuliuwangdao@foxmail.com,欢迎同行探讨交流。
+作者: [Yichong Liu](https://github.com/YiChong-Liu) 
 
 ## PAT考试介绍
 
@@ -94,25 +91,3 @@ Hello 大家好，我是`moonlake23`,CS本科大二学生党一枚，目前正�
 
 [1025:PAT Ranking](https://github.com/YiChong-Liu/PAT/blob/master/AdvancedLevel_C++/1025.cpp)<br>
 
-## 提交C/C++代码时!!
-
-在本人C/C++代码中，可能会出现gets_s函数，将代码提交至PTA平台时会出现编译错误，这是由于本人使用的是VS2015作为编译器，将函数改为gets即可。
-
-## 提交Java代码时!!
-
-1.不要输入package名字<br>
-2.类名必须为Main.否则出现编译错误，“class xxx.java is public,should be declared in a file named xxxx”
-
-## 参考书
-为了PATers在刷题时进行更有针对性的总结和知识点归纳，市面上出版了一套主流参考书名为《算法笔记》&《算法笔记上机训练实战指南》。鉴于网上PDF价格较高，有需要的读者，可以在本人处以最低的价格购买哦o(*￣︶￣*)o
-
-<img src="https://github.com/YiChong-Liu/PAT/blob/master/img-folder/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%B6%E6%AC%BE%E7%A0%81.jpg" width="25%" height="25%">
-
-价格:1元/份，若觉得本人github代码对您起到了帮助的话，欢迎赞赏✿✿ヽ(°▽°)ノ✿<br>
-付款时请备注github+书名+邮箱地址,PDF会在3个工作日内准时发放。
-
-## 考试结果更新
-555o(╥﹏╥)o，9月考试已结束，可惜没有满分，卡在了倒数第二题(此处省略一万字)。<br>但不得不说，这段时间的刷题让本人收获了很多。从暑假开始到新学期要已正式入坑C++和java，题库本人会一直坚持刷下去，以不断熟悉语法、提高coding思维和算法能力为目的<br>
-规划:从9月到12月，完成乙级题库中所有题目的C++题解和部分java题解，并争取完成10——30道甲级题目。加油O(∩_∩)O！
-
-# 感谢您的阅读，祝您生活愉快！
